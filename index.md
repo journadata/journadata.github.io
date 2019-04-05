@@ -1,10 +1,33 @@
-## Welcome to GitHub Pages
+### Beatriz Gálvez Garcés, Data & multimedia journalist
 
-You can use the [editor on GitHub](https://github.com/journadata/journadata.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a **multimedia journalist for RTVE.es**. Before, a news reporter for TVE and Antena 3 TV. **Internal and External Communication Assistant in the European Parliament** for security issues (DG SAFE).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**MSc in Investigative and Data Journalist** and Science, Health and Technology Journalism and Communication.
 
-### Markdown
+Editor in The Clarions, the newspaper of the mock United Nations (C'MUN) in 2013 and 2014. Writer for the magazine Real Club Nautico de Barcelona (RCNB), journalist for the local radio by D9Radio and Community Manager of the Association for International Relations at the UAB, UNANIMUN.
+
+Bilingual (Spanish and Catalan) with a major in Professional English and a Minor in Creating an International Event.
+
+Strong European vocation and a loving sailor. 
+
+------
+
+Periodista transmedia en [RTVE.es](http://www.rtve.es/noticias/). **Máster en Periodismo de Investigación y Datos** por la UNIR.
+
+Antes, periodista, comunicadora y **reportera en TVE** y Antena 3 TV, especializada en periodismo y **comunicación de ciencia, salud y tecnología** por la UNED. 
+
+Técnica de **comunicación interna e interna en el Parlamento Europeo** en cuestiones de seguridad (DG SAFE).
+
+Redactora de los simulacros de las Naciones Unidas (C'MUN) para el newspaper TheClarions en 2013 y 2014. Embarcada en las letras del magazine del Real Club Náutico de Barcelona (RCNB), aprendiendo radio en el mundo local barcelonés gracias a Micros Abiertos en D9Radio y Community Manager de la Asociación para la RRII de la UAB, UNANIMUN.
+
+Bilingüe (Castellano y Catalán) con **Mención en Inglés Profesional y un Minor en Creación de Eventos Internacionales**.
+
+Europeísta y aficionada a navegar.
+
+[:link:](https://about.me/beatrizgalvez) [:bird:](http://beaglvz/) [:tv:](https://es.linkedin.com/in/beatrizgalvezgarces)
+
+
+## Porfolio
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

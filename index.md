@@ -25,7 +25,7 @@ Bilingüe (Castellano y Catalán) con **Mención en Inglés Profesional y un Min
 
 Europeísta y aficionada a navegar.
 
-[![Image](http://mikemunter.com/wp-content/uploads/2016/01/about.me-logo-2-628x286.png)](https://about.me/beatrizgalvez) [:bird:](http://beaglvz/) [:tv:](https://es.linkedin.com/in/beatrizgalvezgarces)
+[:link:](https://about.me/beatrizgalvez) [:bird:](http://beaglvz/) [:tv:](https://es.linkedin.com/in/beatrizgalvezgarces)
 
 
 ## Porfolio

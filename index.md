@@ -1,5 +1,5 @@
-### Beatriz Gálvez Garcés
-####### **Data & multimedia journalist**
+###### Beatriz Gálvez Garcés
+###### **Data & multimedia journalist**
 
 I am a **multimedia journalist for RTVE.es**. Before, a news reporter for TVE and Antena 3 TV. **Internal and External Communication Assistant in the European Parliament** for security issues (DG SAFE).
 

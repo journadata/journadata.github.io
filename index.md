@@ -28,14 +28,15 @@ Ahora, trabajo como redactora en [**Informe Semanal**](https://www.rtve.es/alaca
  Estos son mis proyectos más recientes: 
 
 
+> - [Informe Semanal](https://www.rtve.es/television/informe-semanal/)
+> - [Mil mujeres asesinadas](https://lab.rtve.es/mil-mujeres-asesinadas/)
+
 
 ## Porfolio
 
 ### Videobook
 [![Videobook Beatriz Gálvez](http://img.youtube.com/vi/2anSLVAdYYM/0.jpg)](http://www.youtube.com/watch?v=2anSLVAdYYM "Videobook Beatriz Gálvez")
 
-
-<video src="https://www.rtve.es/alacarta/videos/informe-semanal/informe-semanal-carrera-vacunas/5666411/" width="320" height="200" controls preload></video>
 
 ```markdown
 Syntax highlighted code block

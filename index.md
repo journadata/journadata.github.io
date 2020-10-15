@@ -1,37 +1,41 @@
 # Data & multimedia journalist
 ## Beatriz Gálvez Garcés 
 
-I am a **multimedia journalist for RTVE.es**. Before, a news reporter for TVE and Antena 3 TV. **Internal and External Communication Assistant in the European Parliament** for security issues (DG SAFE).
-
-**MSc in Investigative and Data Journalist** and Science, Health and Technology Journalism and Communication.
-
-Editor in The Clarions, the newspaper of the mock United Nations (C'MUN) in 2013 and 2014. Writer for the magazine Real Club Nautico de Barcelona (RCNB), journalist for the local radio by D9Radio and Community Manager of the Association for International Relations at the UAB, UNANIMUN.
-
-Bilingual (Spanish and Catalan) with a major in Professional English and a Minor in Creating an International Event.
-
-Strong European vocation and a loving sailor. 
-
 ------
+### Howdy 👋
 
-Periodista transmedia en [RTVE.es](http://www.rtve.es/noticias/). **Máster en Periodismo de Investigación y Datos** por la UNIR.
+:raising_hand_woman: Soy Beatriz Gálvez, [*journocoder*](https://journocoders.com/), barcelonesa viviendo en Madrid. Soy **periodista**, especializada en investigación :mag_right:, datos :1234: y visualización :bar_chart:. Además, estoy especializada en periodismo científico :dna::microscope::stethoscope:. 
 
-Antes, periodista, comunicadora y **reportera en TVE** y Antena 3 TV, especializada en periodismo y **comunicación de ciencia, salud y tecnología** por la UNED. 
+Ahora, trabajo como redactora en [**Informe Semanal**](https://www.rtve.es/alacarta/videos/informe-semanal/informe-semanal-carrera-vacunas/5666411/) de RTVE :tv:, pero he pasado por el Canal 24h y por [RTVE.es](rtve.es). 
 
-Técnica de **comunicación interna e interna en el Parlamento Europeo** en cuestiones de seguridad (DG SAFE).
+![Beatriz Gálvez][img2] 
 
-Redactora de los simulacros de las Naciones Unidas (C'MUN) para el newspaper TheClarions en 2013 y 2014. Embarcada en las letras del magazine del Real Club Náutico de Barcelona (RCNB), aprendiendo radio en el mundo local barcelonés gracias a Micros Abiertos en D9Radio y Community Manager de la Asociación para la RRII de la UAB, UNANIMUN.
+[img2]: https://img2.rtve.es/i/?w=800&crop=no&o=no&i=1601550688297.jpg "This is me"
 
-Bilingüe (Castellano y Catalán) con **Mención en Inglés Profesional y un Minor en Creación de Eventos Internacionales**.
+🌱 Estoy aprendiendo **programación** día tras día. Un día me  pogno con R, otro con Python...
 
-Europeísta y aficionada a navegar.
+👯 Formo parte de la [API Investigación](https://investigacionapi.com/) y la [ACCC](accc.cat). 
 
-[:link:](https://about.me/beatrizgalvez) [:bird:](http://beaglvz/) [:tv:](https://es.linkedin.com/in/beatrizgalvezgarces)
+📫 Me puedes encontrar en: 
+
+* [LinkedIn](https://www.linkedin.com/beatrizgalvezgarces/)
+* [Twitter](http://beaglvz/)
+
+⚡ Fun fact: me gusta navegar :sailboat: y pintar :art:(ambas en el mundo físico y virtual) 
+
+:musical_note: Me chifla la música Indie. 
+ 
+ Estos son mis proyectos más recientes: 
+
 
 
 ## Porfolio
 
 ### Videobook
 [![Videobook Beatriz Gálvez](http://img.youtube.com/vi/2anSLVAdYYM/0.jpg)](http://www.youtube.com/watch?v=2anSLVAdYYM "Videobook Beatriz Gálvez")
+
+
+<video src="https://www.rtve.es/alacarta/videos/informe-semanal/informe-semanal-carrera-vacunas/5666411/" width="320" height="200" controls preload></video>
 
 ```markdown
 Syntax highlighted code block
@@ -53,10 +57,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/journadata/journadata.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
